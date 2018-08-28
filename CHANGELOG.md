@@ -1,5 +1,10 @@
 # Change Log
 
+## 0.2.3
+
+1. Updated solr-client version to 0.7.x
+
+
 ## 0.2.1
 
 1. Fixed bug on propagation of `options.rest` to node-rest-client instance

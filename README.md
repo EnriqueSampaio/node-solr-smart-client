@@ -1,6 +1,8 @@
 node-solr-smart-client
 ======================
 
+This is a fork from https://github.com/jijordre/node-solr-smart-client
+
 A node.js solr smart client. In short it serves as a smart constructor for [solr-client](https://github.com/lbdremy/solr-node-client). The constructor queries a ZooKeeper
 ensemble for live nodes of the input Solr collection. When more than one live node is returned by ZooKeeper, the constructor picks one at random and hands over to solr-client.
 
