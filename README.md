@@ -1,4 +1,4 @@
-node-solr-smart-client
+solr-zk-client
 ======================
 
 This is a fork from https://github.com/jijordre/node-solr-smart-client
