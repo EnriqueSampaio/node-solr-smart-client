@@ -18,11 +18,11 @@ Features
 Installation
 ------------
 
-    npm install node-solr-smart-client
+    npm install solr-zk-client
     
 Include option `--save` to add it to your package.json file in the same go:
 
-    npm install node-solr-smart-client --save
+    npm install solr-zk-client --save
     
 Usage
 -----
@@ -30,7 +30,7 @@ Usage
 ### Basic
 
     // Load dependency
-    var solrSmartClient = require('node-solr-smart-client');
+    var solrSmartClient = require('solr-zk-client');
     
     // Define options
     options = {
